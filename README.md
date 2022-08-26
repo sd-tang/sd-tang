@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Christopher Tang @sd-tang
-- 👀 I’m interested in {Software Engineering = [C#, Python3]}, {Network Engineering = [SD-WAN, programmability, automation]}, {cloud = [AWS Solutions, Networking, Security]}, {Wireless = [RF, WiFi, RAN]}, 
-- 🌱 I’m currently learning Application development with C# on .NET 5 & 6
-- 💞️ I’m looking to collaborate on C# mini projects ...
+- 👀 I’m a born-again software engineer after having left the industry for 15 years
+- 💞️ I’m looking to collaborate on meaningful projects that can benefit society and humanity
 - 📫 You can check out my profile at https://www.linkedin.com/in/christopher-tang-8a52b813a/...
 
 <!---
